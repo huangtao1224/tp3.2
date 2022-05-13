@@ -1,0 +1,513 @@
+07:26:39 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577748392]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[1000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[if6urha8wwbkjqilv46t6hwndmzow9fc]]></nonce_str>
+<openid><![CDATA[oYi_Ts9CgP3P0jqvRWGyD79dUvDM]]></openid>
+<out_trade_no><![CDATA[151805989120191231072633]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[F5AD49382AE40E763F112089BD43B0E3]]></sign>
+<time_end><![CDATA[20191231072638]]></time_end>
+<total_fee>1000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000465201912318403286900]]></transaction_id>
+</xml>
+07:26:39 回调进来了201912311577748392
+07:47:22 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577749634]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[300]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[0ynpdm15283hbcrh4nhaz49256gwuohz]]></nonce_str>
+<openid><![CDATA[oYi_Ts619V1seMwhF6sTWeDLL3mE]]></openid>
+<out_trade_no><![CDATA[151805989120191231074714]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E300D9AE172ABC26F448F10324E3DD36]]></sign>
+<time_end><![CDATA[20191231074721]]></time_end>
+<total_fee>300</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000452201912319462695570]]></transaction_id>
+</xml>
+07:47:22 回调进来了201912311577749634
+07:48:42 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577749709]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[3400]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[0dq3rp7o7tlkcvkgh85sf0ffe5y9npk1]]></nonce_str>
+<openid><![CDATA[oYi_Ts3THjSqkQ9m5bUE3xYGWPjE]]></openid>
+<out_trade_no><![CDATA[151805989120191231074831]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[EA172644569A081507A089FEB9371619]]></sign>
+<time_end><![CDATA[20191231074841]]></time_end>
+<total_fee>3400</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000464201912317618772534]]></transaction_id>
+</xml>
+07:48:42 回调进来了201912311577749709
+08:00:05 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577750396]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[5000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[p8pws1ixc6cvujld367px7jol0jymdiu]]></nonce_str>
+<openid><![CDATA[oYi_Ts8QnH92xtnRrSELRYOO9Kx0]]></openid>
+<out_trade_no><![CDATA[151805989120191231075957]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[8763DF0D8061A58BC788A1C38C75AE8C]]></sign>
+<time_end><![CDATA[20191231080005]]></time_end>
+<total_fee>5000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000467201912314116625543]]></transaction_id>
+</xml>
+08:00:05 回调进来了201912311577750396
+09:43:19 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577756589]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[ln16uyvr94nbb69uiwz70m2lgryxukk0]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231094309]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[1290614CCAEC7F5D09A3F3C5AF7EFB7A]]></sign>
+<time_end><![CDATA[20191231094319]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000458201912316520561878]]></transaction_id>
+</xml>
+09:43:19 回调进来了201912311577756589
+10:14:08 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577758443]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[50]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[o7o3gnkn4i4bu3xqrv09i33fnj0yhd7h]]></nonce_str>
+<openid><![CDATA[oYi_Ts8NTpHxvNPVefTnlZq6SAQw]]></openid>
+<out_trade_no><![CDATA[151805989120191231101403]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[486D2BCC2A7398BEFE039E69398E94D5]]></sign>
+<time_end><![CDATA[20191231101407]]></time_end>
+<total_fee>50</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000455201912316438406351]]></transaction_id>
+</xml>
+10:14:08 回调进来了201912311577758443
+11:11:01 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577761853]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[500]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[att2gostpg8l1z4ict9op92d9lvy6xa2]]></nonce_str>
+<openid><![CDATA[oYi_Ts0buqFL_8WkmglKpngY5iLM]]></openid>
+<out_trade_no><![CDATA[151805989120191231111054]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[35162DE969EB21FF935911B432F22DC3]]></sign>
+<time_end><![CDATA[20191231111100]]></time_end>
+<total_fee>500</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000467201912313407624086]]></transaction_id>
+</xml>
+11:11:01 回调进来了201912311577761853
+12:07:15 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577765227]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[1200]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[0r7nla3awqdpzkysbm4e2cuyyrdfa4kr]]></nonce_str>
+<openid><![CDATA[oYi_Ts3THjSqkQ9m5bUE3xYGWPjE]]></openid>
+<out_trade_no><![CDATA[151805989120191231120707]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[7ABE87EEBE9DFBA3E8CDA733EF634C8E]]></sign>
+<time_end><![CDATA[20191231120714]]></time_end>
+<total_fee>1200</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000455201912310245034589]]></transaction_id>
+</xml>
+12:07:15 回调进来了201912311577765227
+12:23:32 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766201]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[7rqqb2hbidyu48cr3qwjhgevcg0vxhqj]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122322]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[1945B2EEBF5B3C9F3F47B01528B98F7E]]></sign>
+<time_end><![CDATA[20191231122331]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000463201912310546728799]]></transaction_id>
+</xml>
+12:23:32 回调进来了201912311577766201
+12:23:59 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766226]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[bp39cclyfsprueboyo5xcavy9vtorvtr]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122347]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[5DCEC5D448061D2AA302101D926CD56B]]></sign>
+<time_end><![CDATA[20191231122358]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000456201912315052828074]]></transaction_id>
+</xml>
+12:23:59 回调进来了201912311577766226
+12:24:36 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766255]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[brotd58znwh12tldmyxu71h3ksrlv534]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122416]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B2C19F190DE29122D573F5D6142D6062]]></sign>
+<time_end><![CDATA[20191231122435]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000468201912312709010389]]></transaction_id>
+</xml>
+12:24:36 回调进来了201912311577766255
+12:25:05 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766292]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[c4sor69d31fss24vnaa0i19e630d6b4x]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122453]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[5453D64C5EEC78E32AC11708FC6855C0]]></sign>
+<time_end><![CDATA[20191231122505]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000471201912317069482168]]></transaction_id>
+</xml>
+12:25:05 回调进来了201912311577766292
+12:25:37 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766323]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[pmdlu2h0jk1v8qn0b8qr6etti72xlbda]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122524]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[0BCC29E5CAF8EF8389FC97EF15FFFCBD]]></sign>
+<time_end><![CDATA[20191231122536]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000454201912314003192929]]></transaction_id>
+</xml>
+12:25:37 回调进来了201912311577766323
+12:26:10 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766358]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[ya2l8p972ppkif2yuendw89feiyrzma1]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122559]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[21C41015D29F770BDBE92FFFC3D1E511]]></sign>
+<time_end><![CDATA[20191231122609]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000456201912312852965594]]></transaction_id>
+</xml>
+12:26:10 回调进来了201912311577766358
+12:26:48 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766396]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[nlzdo7yatq73h6lk6kn04zjguz14av83]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122638]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E1DAA5D8C5ACB2286D114990E56E9F85]]></sign>
+<time_end><![CDATA[20191231122648]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000471201912315037102001]]></transaction_id>
+</xml>
+12:26:48 回调进来了201912311577766396
+12:27:16 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766425]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[yv62b7f85p81wn1tbtj1nyszakgiyu48]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122705]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[8B993C736E60256621A3D2D61F151534]]></sign>
+<time_end><![CDATA[20191231122715]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000469201912316284910562]]></transaction_id>
+</xml>
+12:27:16 回调进来了201912311577766425
+12:27:48 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766457]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[03t0dmeikplorjyst43a178g10q2krdb]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122737]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[B43465DF7CC88F572E69C6DB4AA765C2]]></sign>
+<time_end><![CDATA[20191231122748]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000467201912310347119419]]></transaction_id>
+</xml>
+12:27:48 回调进来了201912311577766457
+12:28:18 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766487]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[pxkpzx1i2y0cex90vlg2vbguflfr9q5n]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122807]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[73725DE3AF79D7BC4B115AC8FA32E886]]></sign>
+<time_end><![CDATA[20191231122817]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000459201912313283159676]]></transaction_id>
+</xml>
+12:28:18 回调进来了201912311577766487
+12:28:48 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577766517]]></attach>
+<bank_type><![CDATA[OTHERS]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[l4s71nnic4ad38azngxee6qs2iqkkf95]]></nonce_str>
+<openid><![CDATA[oYi_TszW1LeoV3OU5TcHv5Haosr0]]></openid>
+<out_trade_no><![CDATA[151805989120191231122837]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[C56A530441C87F98E97FCD7990752B9B]]></sign>
+<time_end><![CDATA[20191231122848]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000469201912313648828871]]></transaction_id>
+</xml>
+12:28:48 回调进来了201912311577766517
+20:30:06 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577795396]]></attach>
+<bank_type><![CDATA[PAB_DEBIT]]></bank_type>
+<cash_fee><![CDATA[1000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[tca3qxsz61vcyfen1zgkhhwgnkmolz3s]]></nonce_str>
+<openid><![CDATA[oYi_Ts9MTnlhmEiRBu5FT3aF2nDU]]></openid>
+<out_trade_no><![CDATA[151805989120191231202956]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FF85575F75753DD1238A1C13ABCC1627]]></sign>
+<time_end><![CDATA[20191231203006]]></time_end>
+<total_fee>1000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000471201912319807422561]]></transaction_id>
+</xml>
+20:30:06 回调进来了201912311577795396
+22:51:28 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577803879]]></attach>
+<bank_type><![CDATA[ABC_DEBIT]]></bank_type>
+<cash_fee><![CDATA[2000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[nygnsvkuioiruz4z7qhlnyaam5o20ffk]]></nonce_str>
+<openid><![CDATA[oYi_Ts4P0MOgYRcGE9GR_06Ul7x8]]></openid>
+<out_trade_no><![CDATA[151805989120191231225119]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[ED1AA5438907DF67135619054F343F0E]]></sign>
+<time_end><![CDATA[20191231225127]]></time_end>
+<total_fee>2000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000457201912319281065587]]></transaction_id>
+</xml>
+22:51:28 回调进来了201912311577803879
+22:51:49 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577803900]]></attach>
+<bank_type><![CDATA[BOC_DEBIT]]></bank_type>
+<cash_fee><![CDATA[5000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[0kddxgundfz38vdg81v313a0sb3x5pv9]]></nonce_str>
+<openid><![CDATA[oYi_Ts1Ozh1mPM63iituho4HhrZc]]></openid>
+<out_trade_no><![CDATA[151805989120191231225140]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[FAAD642F3DD00F3BB755C62CC48AB96E]]></sign>
+<time_end><![CDATA[20191231225148]]></time_end>
+<total_fee>5000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000470201912311600476146]]></transaction_id>
+</xml>
+22:51:49 回调进来了201912311577803900
+22:52:08 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577803917]]></attach>
+<bank_type><![CDATA[ABC_DEBIT]]></bank_type>
+<cash_fee><![CDATA[2000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[bdgfgjfobz3k6nmt177sjbm2popv4yff]]></nonce_str>
+<openid><![CDATA[oYi_Ts4P0MOgYRcGE9GR_06Ul7x8]]></openid>
+<out_trade_no><![CDATA[151805989120191231225157]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[579D9886286F06FD64CC3B2A773E0E98]]></sign>
+<time_end><![CDATA[20191231225207]]></time_end>
+<total_fee>2000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000457201912318558872117]]></transaction_id>
+</xml>
+22:52:08 回调进来了201912311577803917
+22:55:36 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577804128]]></attach>
+<bank_type><![CDATA[CCB_CREDIT]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[iga6ldo0wigxus5n8rwj3zz25y2sap0q]]></nonce_str>
+<openid><![CDATA[oYi_Ts97ziG_SDXkLaDpjGlg_ovA]]></openid>
+<out_trade_no><![CDATA[151805989120191231225528]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[AAFA9FA7E0A2D33BCBEAB5C949593F2B]]></sign>
+<time_end><![CDATA[20191231225534]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000454201912319117300387]]></transaction_id>
+</xml>
+22:55:36 回调进来了201912311577804128
+22:58:06 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577804281]]></attach>
+<bank_type><![CDATA[CCB_CREDIT]]></bank_type>
+<cash_fee><![CDATA[100]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[Y]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[pi8mosqbml4qlsl35t19vl17vo42bmbk]]></nonce_str>
+<openid><![CDATA[oYi_Ts97ziG_SDXkLaDpjGlg_ovA]]></openid>
+<out_trade_no><![CDATA[151805989120191231225801]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[E69FC961632DC2E1608AEA99B98B6B9E]]></sign>
+<time_end><![CDATA[20191231225806]]></time_end>
+<total_fee>100</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000452201912314861904154]]></transaction_id>
+</xml>
+22:58:06 回调进来了201912311577804281
+23:29:15 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577806148]]></attach>
+<bank_type><![CDATA[CEB_CREDIT]]></bank_type>
+<cash_fee><![CDATA[2000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[2fmlwy81ova2hixfcoy22wujol3ixson]]></nonce_str>
+<openid><![CDATA[oYi_Tswf3ApQm1WLvLee2v2Exx7s]]></openid>
+<out_trade_no><![CDATA[151805989120191231232908]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[479EA9A59D794244D63752E709B4D05F]]></sign>
+<time_end><![CDATA[20191231232914]]></time_end>
+<total_fee>2000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000470201912318862714215]]></transaction_id>
+</xml>
+23:29:15 回调进来了201912311577806148
+23:37:07 <xml><appid><![CDATA[wx45e50ef766851414]]></appid>
+<attach><![CDATA[201912311577806613]]></attach>
+<bank_type><![CDATA[COMM_CREDIT]]></bank_type>
+<cash_fee><![CDATA[2000]]></cash_fee>
+<fee_type><![CDATA[CNY]]></fee_type>
+<is_subscribe><![CDATA[N]]></is_subscribe>
+<mch_id><![CDATA[1518059891]]></mch_id>
+<nonce_str><![CDATA[2d2bma00z7m35plihymgt2yol8ck527i]]></nonce_str>
+<openid><![CDATA[oYi_TszWmF8Zl6a3N41QVZKVPvdA]]></openid>
+<out_trade_no><![CDATA[151805989120191231233654]]></out_trade_no>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<sign><![CDATA[19FA7528AEF7FDE32CA71104DABF6A79]]></sign>
+<time_end><![CDATA[20191231233706]]></time_end>
+<total_fee>2000</total_fee>
+<trade_type><![CDATA[JSAPI]]></trade_type>
+<transaction_id><![CDATA[4200000455201912313220137024]]></transaction_id>
+</xml>
+23:37:07 回调进来了201912311577806613

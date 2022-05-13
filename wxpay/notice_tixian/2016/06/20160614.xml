@@ -1,0 +1,73 @@
+
+16:17:40 <xml>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[]]></return_msg>
+<mch_appid><![CDATA[wx843aed193e9f4dbe]]></mch_appid>
+<mchid><![CDATA[1272242901]]></mchid>
+<device_info><![CDATA[]]></device_info>
+<nonce_str><![CDATA[qyzf981790]]></nonce_str>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<partner_trade_no><![CDATA[207]]></partner_trade_no>
+<payment_no><![CDATA[1000018301201606140586591088]]></payment_no>
+<payment_time><![CDATA[2016-06-14 16:17:40]]></payment_time>
+</xml>
+16:21:17 <xml>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[]]></return_msg>
+<mch_appid><![CDATA[wx843aed193e9f4dbe]]></mch_appid>
+<mchid><![CDATA[1272242901]]></mchid>
+<device_info><![CDATA[]]></device_info>
+<nonce_str><![CDATA[qyzf945700]]></nonce_str>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<partner_trade_no><![CDATA[208]]></partner_trade_no>
+<payment_no><![CDATA[1000018301201606140586118690]]></payment_no>
+<payment_time><![CDATA[2016-06-14 16:21:16]]></payment_time>
+</xml>
+16:28:03 <xml>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[]]></return_msg>
+<mch_appid><![CDATA[wx843aed193e9f4dbe]]></mch_appid>
+<mchid><![CDATA[1272242901]]></mchid>
+<device_info><![CDATA[]]></device_info>
+<nonce_str><![CDATA[qyzf994342]]></nonce_str>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<partner_trade_no><![CDATA[209]]></partner_trade_no>
+<payment_no><![CDATA[1000018301201606140586741130]]></payment_no>
+<payment_time><![CDATA[2016-06-14 16:28:02]]></payment_time>
+</xml>
+16:46:07 <xml>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[]]></return_msg>
+<mch_appid><![CDATA[wx843aed193e9f4dbe]]></mch_appid>
+<mchid><![CDATA[1272242901]]></mchid>
+<device_info><![CDATA[]]></device_info>
+<nonce_str><![CDATA[qyzf392153]]></nonce_str>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<partner_trade_no><![CDATA[210]]></partner_trade_no>
+<payment_no><![CDATA[1000018301201606140586384784]]></payment_no>
+<payment_time><![CDATA[2016-06-14 16:46:07]]></payment_time>
+</xml>
+18:13:09 <xml>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[]]></return_msg>
+<mch_appid><![CDATA[wx843aed193e9f4dbe]]></mch_appid>
+<mchid><![CDATA[1272242901]]></mchid>
+<device_info><![CDATA[]]></device_info>
+<nonce_str><![CDATA[qyzf998873]]></nonce_str>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<partner_trade_no><![CDATA[215]]></partner_trade_no>
+<payment_no><![CDATA[1000018301201606140588181807]]></payment_no>
+<payment_time><![CDATA[2016-06-14 18:13:09]]></payment_time>
+</xml>
+18:21:07 <xml>
+<return_code><![CDATA[SUCCESS]]></return_code>
+<return_msg><![CDATA[]]></return_msg>
+<mch_appid><![CDATA[wx843aed193e9f4dbe]]></mch_appid>
+<mchid><![CDATA[1272242901]]></mchid>
+<device_info><![CDATA[]]></device_info>
+<nonce_str><![CDATA[qyzf898733]]></nonce_str>
+<result_code><![CDATA[SUCCESS]]></result_code>
+<partner_trade_no><![CDATA[216]]></partner_trade_no>
+<payment_no><![CDATA[1000018301201606140588227969]]></payment_no>
+<payment_time><![CDATA[2016-06-14 18:21:07]]></payment_time>
+</xml>

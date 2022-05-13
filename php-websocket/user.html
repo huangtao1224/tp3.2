@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>WebSocket大屏输入</title>
+    <script src="../js/jquery-1.7.2.min.js"></script>
+</head>
+<body>
+
+<input type="text" id="content">
+<input type="button" value="发送" onclick="send()">
+<script>
+
+    function connect() {
+        ws = new WebSocket('ws://127.0.0.1:6161');
+        ws.onmessage = function (e) {
+            console.log(e.data);
+        };
+        ws.timer = setInterval(function () {
+            ws.send('ping');
+        }, 50000);
+        ws.onclose = function () {
+            clearTimeout(ws.timer);
+            setTimeout(connect, 1000);
+        };
+    }
+
+    //  通过WebSocket连接将数据发送给服务端
+    function send() {
+        ws.send($('#content').val());
+        $('#content').val('');
+    }
+
+    connect();
+</script>
+</body>
+</html>
